@@ -3,3 +3,7 @@ Modification1
 
 git add
 git commit
+git commit -v
+git add . 
+ls
+cd
